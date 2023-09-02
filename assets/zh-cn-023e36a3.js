@@ -1,0 +1,1 @@
+const t="Gay M属性自测表",i="警告",n="退出页面",e="该测试可能包含一些不适宜工作或学习时间进行的内容，并可能出现较为重口的内容，请确认您已成年且周边环境足够安全。",o="该测试部分内容仅适用于部分特殊人群。",s="该测试内容具有不利于健康或者有损身体，或者具有生理性死亡、社会性死亡、涉及法律风险的玩法，系统并不推荐此类玩法。请珍爱生命。",a={title:t,warning:i,exitPage:n,tip1:e,tip2:o,tip3:s};export{a as default,n as exitPage,e as tip1,o as tip2,s as tip3,t as title,i as warning};
